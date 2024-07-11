@@ -56,12 +56,8 @@ I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecn
 <br>
 <p align="center"><i>In case you wanna reach out to me</i></p>
  <p align="center">
-  <a href="https://www.linkedin.com/in/sinaghanbari2020/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/linkedin.svg" width="20px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohammadsina.ghanbaripakdehi@mail.polimi.it"><img alt="mail" title="mail" src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/gmail.svg" width="20px"/></a>
+  <a href="https://www.linkedin.com/in/sinaghanbari2020/"><img alt="LinkedIn" title="LinkedIn" src="blob/main/icons/linkedin.svg" width="20px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohammadsina.ghanbaripakdehi@mail.polimi.it"><img alt="mail" title="mail" src="blob/main/icons/mail.svg" width="20px"/></a>
 </p>
 <br>
 
------
-Credits: [soilshubham](https://github.com/soilshubham)
-
-Last Edited on: 11/07/2024
