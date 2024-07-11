@@ -26,7 +26,7 @@ I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecn
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/matlab.svg" width="40"/>
+        <img src="blob/main/icons/matlab.svg" width="40"/>
       </a>
       <br>MATLAB
     </td>
@@ -35,12 +35,6 @@ I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecn
         <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/comsol.svg" width="40"/>
       </a>
       <br>COMSOL
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/aspen.svg" width="40"/>
-      </a>
-      <br>Aspen HYSYS
     </td>
     <td align="center" width="96">
       <a>
@@ -58,13 +52,7 @@ I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecn
       <a>
         <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/time.svg" width="40"/>
       </a>
-      <br>Time Management
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/teamwork.svg" width="40"/>
-      </a>
-      <br>Teamwork
+      <br>R
     </td> 
   </tr>
 </table>
