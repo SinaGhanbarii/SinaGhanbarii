@@ -20,7 +20,7 @@ I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecn
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/python.svg" width="40"/>
+        <img src="blob/main/icons/python.svg" width="40"/>
       </a>
       <br>Python
     </td>
@@ -32,19 +32,19 @@ I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecn
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/comsol.svg" width="40"/>
+        <img src="blob/main/icons/comsol.svg" width="40"/>
       </a>
       <br>COMSOL
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/git.svg" width="40"/>
+        <img src="blob/main/icons/git.svg" width="45"/>
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/time.svg" width="40"/>
+        <img src="blob/main/icons/R.svg" width="40"/>
       </a>
       <br>R
     </td> 
