@@ -38,12 +38,6 @@ I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecn
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/office.svg" width="40"/>
-      </a>
-      <br>Microsoft Office
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/git.svg" width="40"/>
       </a>
       <br>Git
