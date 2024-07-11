@@ -1,10 +1,11 @@
 # Hi, you've arrived at Sina's GitHub! <br>I'm not in right now; please leave a [message](mailto:mohammadsina.ghanbaripakdehi@mail.polimi.it).
 
 ## :raising_hand: About me:
-I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecnico di Milano</b></a>.<br>
+I'm a <b>Master's student</b> of <b>Chemical Engineering</b> at <a href="https://www.polimi.it/en/"><b>Politecnico di Milano</b></a>.<br>
 ◽ Intrested in <b>research</b>, <b>simulation</b>, and <b>numerical methods</b> in chemical engineering.<br>
-◽ I like the minimal art style.<br>
-◽ I’m currently learning advanced chemical engineering concepts.<br>
+◽ I’m currently learning Computational Fluid Dynamics in Reacting Flows!<br>
+◽ Playing Chess, Listening to Rock and Jazz Music, and Playing Guitar are my common hobbies!<be>
+
 
 <br>
 <a href="https://github.com/SinaGhanbarii">
