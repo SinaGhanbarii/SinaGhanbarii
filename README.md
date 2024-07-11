@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, you've arrived at Sina's GitHub! <br>I'm not in right now; please leave a [message](mailto:mohammadsina.ghanbaripakdehi@mail.polimi.it).
 
-<!--
-**SinaGhanbarii/SinaGhanbarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :raising_hand: About me:
+I'm a <b>Master's student</b> at <a href="https://www.polimi.it/en/"><b>Politecnico di Milano</b></a>.<br>
+◽ Intrested in <b>research</b>, <b>simulation</b>, and <b>numerical methods</b> in chemical engineering.<br>
+◽ I like the minimal art style.<br>
+◽ I’m currently learning advanced chemical engineering concepts.<br>
 
-Here are some ideas to get you started:
+<br>
+<a href="https://github.com/SinaGhanbarii">
+   <img src="https://github-readme-stats.vercel.app/api?username=SinaGhanbarii&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sina's github stats" width=450px/>
+</a><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="tech"></div>
+
+## 💻 Things I know
+> <i>Tools, languages, and other things that I like to work with.</i>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/python.svg" width="40"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/matlab.svg" width="40"/>
+      </a>
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/comsol.svg" width="40"/>
+      </a>
+      <br>COMSOL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/aspen.svg" width="40"/>
+      </a>
+      <br>Aspen HYSYS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/office.svg" width="40"/>
+      </a>
+      <br>Microsoft Office
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/git.svg" width="40"/>
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/time.svg" width="40"/>
+      </a>
+      <br>Time Management
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/teamwork.svg" width="40"/>
+      </a>
+      <br>Teamwork
+    </td> 
+  </tr>
+</table>
+<br>
+
+##
+<br>
+<p align="center"><i>In case you wanna reach out to me</i></p>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/sinaghanbari2020/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/linkedin.svg" width="20px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohammadsina.ghanbaripakdehi@mail.polimi.it"><img alt="mail" title="mail" src="https://github.com/SinaGhanbarii/SinaGhanbarii/blob/main/icons/gmail.svg" width="20px"/></a>
+</p>
+<br>
+
+-----
+Credits: [soilshubham](https://github.com/soilshubham)
+
+Last Edited on: 11/07/2024
