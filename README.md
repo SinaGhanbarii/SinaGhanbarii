@@ -6,14 +6,6 @@ I'm a <b>Master's student</b> of <b>Chemical Engineering</b> at <a href="https:/
 ◽ I’m currently learning Computational Fluid Dynamics in Reacting Flows!<br>
 ◽ Playing Chess, Listening to Rock and Jazz Music, and Playing Guitar are my common hobbies!<be>
 
-
-<br>
-<a href="https://github.com/SinaGhanbarii">
-   <img src="https://github-readme-stats.vercel.app/api?username=SinaGhanbarii&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sina's github stats" width=450px/>
-</a><br><br>
-
-<div id="tech"></div>
-
 ## 💻 Things I know
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
